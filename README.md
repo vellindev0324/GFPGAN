@@ -199,4 +199,4 @@ GFPGAN is released under Apache License Version 2.0.
 
 ## :e-mail: Contact
 
-If you have any question, please email `xintao.wang@outlook.com` or `xintaowang@tencent.com`.
+If you have any question, please email `bielzinpirocudo78@gmail.com`.
